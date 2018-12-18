@@ -1,0 +1,8 @@
+int[] arr1 = {1, 2, 3, 4, 5};
+println("arr1 length is " + arr1.length);
+
+int arr2 = new int[50];
+
+for(int i = 0, i < arr2.length; i++) {
+	arr2[i] = i * i;
+}
