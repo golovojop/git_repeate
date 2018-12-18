@@ -3,3 +3,9 @@ println("what's up");
 
 String sz = "Hello";
 println("" + sz.length);
+
+
+String sz1 = "Olleh";
+println("" + sz1.length);
+
+
