@@ -1,1 +1,3 @@
-ptintln("hi all friends");
+println("hi all friends");
+println("what's up");
+
