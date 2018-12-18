@@ -1,5 +1,4 @@
-println("*** Hello, World");
-println("*** I'm ready");
-println("*** Wait for Long feature");
-println("*** Hello my friend");
-
+println("+ Hello, World");
+println("+ I'm ready");
+println("+ Wait for Long feature");
+println("+ Hello my friend");
