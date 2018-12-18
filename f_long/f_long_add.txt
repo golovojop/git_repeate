@@ -1,0 +1,2 @@
+long param = 10L;
+println("param is " + param);
