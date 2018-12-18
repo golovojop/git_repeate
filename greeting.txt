@@ -1,3 +1,4 @@
 println("hi all friends");
 println("what's up");
 
+String sz = "Hello";
